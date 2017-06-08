@@ -94,4 +94,4 @@ script:
                 command: activate
 ```
 
-For a more complex usage of the `kodi_call_method` service, with event triggering of Kodi API results, you can have a look at this [example](/cookbook/kodi_dynamic_input_select/)
+For a more complex usage of the `kodi_call_method` service, with event triggering of Kodi API results, you can have a look at this [example](/cookbook/automation_kodi_dynamic_input_select/)
